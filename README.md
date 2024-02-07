@@ -9,6 +9,9 @@ Delete notes that are no longer needed.
 Clear the form to create a new note.
 Installation
 Clone the repository to your local machine:
+![Screenshot 2024-02-07 at 1 40 56 AM](https://github.com/Cpanelli/Note-Taker/assets/133393733/1b5f648c-9f1f-47a4-96a7-49028c2f9ef1)
+![Screenshot 2024-02-07 at 1 41 32 AM](https://github.com/Cpanelli/Note-Taker/assets/133393733/12c6ac05-22fe-4ac4-8b61-ef34524502f6)
+![Screenshot 2024-02-07 at 1 41 48 AM](https://github.com/Cpanelli/Note-Taker/assets/133393733/decaadc2-daa2-4932-991d-3ac2e64ad9b7)
 
 
 ## Copy code
@@ -45,3 +48,6 @@ JavaScript
 
 This project is licensed under the MIT License.
 
+## Link 
+
+https://panellinote-taker-ada336b1890d.herokuapp.com/
